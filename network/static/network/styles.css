@@ -1,0 +1,81 @@
+.body {
+    background-color: black;
+}
+.brand {
+    color: lightgreen;
+    padding-left: 25px;
+}
+a {
+    text-decoration: none;
+}
+.body div {
+    color: black;
+
+    border: 1px solid black;
+    border-radius: 5px;
+    text-decoration: none;
+
+}
+
+.body .content {
+    text-decoration: none;
+}
+
+.post {
+    align-items: inherit;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    width: 100%;
+    padding-left: 10px;
+}
+
+.all {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.all .all2 {
+    border: .1px solid #cdf8cd;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-decoration: none;
+    margin: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+
+
+}
+
+
+
+/*.all .all2 a {*/
+/*    text-decoration: none;*/
+/*}*/
+
+.followers {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.modalbutton {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.everything {
+    padding-left: 25px;
+}
+
+
+
